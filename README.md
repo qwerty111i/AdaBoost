@@ -10,6 +10,7 @@ View the full animation here: https://youtu.be/xiDLpd0dU9M
 ### 1. Install Python
 - https://www.python.org/downloads/
 
+
 ### 2. Install Manim
 Once you have Python installed, you can install Manim using `pip`. Open your terminal and run the following command:
 
@@ -17,8 +18,10 @@ Once you have Python installed, you can install Manim using `pip`. Open your ter
 pip install manim
 ```
 
-### 2. Render Animation
+
+### 3. Render Animation
 To render the animation, run the following command: 
+
 
 **High Quality Render (takes longer):**
 ```
