@@ -20,12 +20,12 @@ pip install manim
 ### 2. Render Animation
 To render the animation, run the following command: 
 
-**High Quality Render (takes longer): **
+**High Quality Render (takes longer):**
 ```
 manim -pqh main.py
 ```
 
-**Low Quality Render: **
+**Low Quality Render:**
 ```
 manim -pql main.py
 ```
