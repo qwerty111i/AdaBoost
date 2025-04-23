@@ -11,7 +11,7 @@ View the full animation here: https://youtu.be/xiDLpd0dU9M
 - https://www.python.org/downloads/
 
 ### 2. Install Manim
-Once you have Python installed, you can install Manim using `pip`. Open your terminal/command prompt and run the following command:
+Once you have Python installed, you can install Manim using `pip`. Open your terminal and run the following command:
 
 ```
 pip install manim
@@ -20,12 +20,12 @@ pip install manim
 ### 2. Render Animation
 To render the animation, run the following command: 
 
-High Quality Render (takes longer): 
+**High Quality Render (takes longer): **
 ```
 manim -pqh main.py
 ```
 
-Low Quality Render: 
+**Low Quality Render: **
 ```
-manim -pqh main.py
+manim -pql main.py
 ```
